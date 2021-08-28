@@ -9,3 +9,4 @@
 ## Check Live Demo here : https://translate-html-to-other-language.vercel.app/
 
 ![alt text](https://github.com/dotsimplify/translate-html-to-other-language/blob/master/img1.png?raw=true)
+![alt text](https://github.com/dotsimplify/translate-html-to-other-language/blob/master/img2.png?raw=true)

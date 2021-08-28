@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Translate HTML page to any language with JS</title>
+  </head>
+  <body>
+    <main>
+      <h2 data-translate="title">
+        Translate HTML page to any language
+        <br />
+        Without any third party library
+        <br />
+      </h2>
+      <ul>
+        <li data-translate="li-1">
+          &#9989; First create json file for translate language
+        </li>
+        <li data-translate="li-2">
+          &#9989; Add data-translate attribute in html
+        </li>
+        <li data-translate="li-3">
+          &#9989; Use translation-script attached to this repository
+        </li>
+        <li data-translate="li-4">&#9989; Translation done</li>
+        <li data-translate="li-5">
+          &#11088; Please star this repo if this worked for you
+        </li>
+      </ul>
+      <form>
+        <select>
+          <option selected disabled>Change Language</option>
+          <option value="bn">বাংলা</option>
+          <option value="en">English</option>
+          <option value="gu">ગુજરાતી</option>
+          <option value="hi">हिंदी</option>
+          <option value="it">Italiano</option>
+          <option value="ru">русский</option>
+          <option value="zh-Hans">中文</option>
+        </select>
+      </form>
+    </main>
+    <script src="translation-script.js"></script>
+  </body>
+</html>

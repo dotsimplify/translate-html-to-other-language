@@ -8,6 +8,11 @@
 
 ## Check Live Demo here : https://translate-html-to-other-language.vercel.app/
 
+<<<<<<< HEAD
 -------------------------**\***Screenshots****\*\*\*****---------------------------
+=======
+
+-------------------------*****Screenshots***********---------------------------
+>>>>>>> 30dabc93c186ae0dc70f807ddeb9f3f71915a010
 
 ![alt text](https://github.com/dotsimplify/translate-html-to-other-language/blob/master/img1.png?raw=true)

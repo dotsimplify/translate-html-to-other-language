@@ -30,7 +30,8 @@ ul li {
 
 select {
   margin: 1rem;
-  padding: 0.5rem;
+  margin-left: 0;
+  padding: 0.9rem;
   border: 1px solid #ccc;
   outline: none;
   border-radius: 0.5rem;
